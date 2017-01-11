@@ -229,3 +229,15 @@ Summary of RNA world:
 3. Molecular natural selection favors efficient, self-replicating RNA molecules
 4. True living cells with RNA genome give rise to RNA world
 5. DNA evolves from RNA and biological evolution
+
+## Summary
+
+We still do not know how life started on Earth and we might never know for sure.
+
+We have constructed one plausible model (RNA world) backed up at many points by experiments, and scientists are working on others.
+
+Main point:
+
+The origin of life seems like a plausible/likely consequence of conditions on the early Earth, and the laws of nature (chemistry -> biology)
+
+The next question is: Is life a necessary consequence of the laws of nature at the most elementary level? Is it physics -> chemistry -> biology ?
