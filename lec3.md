@@ -214,3 +214,7 @@ Even a tiny amount of spreading opens up a vast increase in the number of nearby
 Statistically, there are more ways that particles can be laid out that are widely spreads out then clumped together, so random motion statistically favors that they become spread out.
 
 By the law of large numbers, should spread out.
+
+The system could go back but the law of large numbers says it will spend virtually all of its time lost in the huge  new space of nearby slightly more spread out states.
+
+This continues until equilibrium. There are stupendously more uniform-like states than even the slightly less uniform-like states a moment before. The system inexorably moves towards equilibrium.
