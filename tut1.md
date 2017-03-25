@@ -20,7 +20,7 @@ Spirituality has been used to explain life and death, and only now is science be
 
 Gave a lecture on *What is Life*, he says that it isn't mystical, life is a process, an interaction of matter.
 
-## 3rd Law of Thermodynamics
+## 1st Law of Thermodynamics
 
 Energy is not created or destroyed.
 

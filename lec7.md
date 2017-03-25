@@ -1,12 +1,12 @@
 # Why is there Life?
 
-Roughly speaking, England took Crook's microscopic formula and figured out its consequences for macroscopic things, and discovered a generealization of the Second law, that applies even for systems driven far from equilibrium by energy flows:
+Roughly speaking, England took Crook's microscopic formula and figured out its consequences for macroscopic things, and discovered a generalization of the Second law, that applies even for systems driven far from equilibrium by energy flows:
 
 Probability(forward) / Probability(backward) = $e^{S}$
 
 It says that the more irreversible a spontaneous process is, the more it increases the entropy of the universe.
 
-Or, the most probably outcomes are the ones that on the way to getting there **increase the entropy of the universe the most.**
+Or, the most probable outcomes are the ones that on the way to getting there **increase the entropy of the universe the most.**
 
 Analysing the new equation givees a key new insight:
 
@@ -30,7 +30,7 @@ Why is this plausible?
 2. But a periodic driving force like pushing a swing, can help the thermal jostling make configuration changes happen.
 3. After a change, if the additional energy absorbed, say from sunlight, from the driving force is dissipated as heat back into the environment it is not available to help the system go back, like a ratchet. **So irreversibility is connected to dissipation, entropy increase.**
 4. While configuration changes are mostly random, the most irreversible or durable changes are those that happen when the system at that moment happens to be **better** at absorption and dissipating energy from the driving force.
-5. As time passes, these less erasable changes accumulate, like a ratchet, shifting the system preferentially in the direction better absorption and dissipation.
+5. As time passes, these less erasable changes accumulate, like a ratchet, shifting the system preferentially in the direction better absorption and dissipation. The most durable changes were ones that made it better at absorption and dissipation, so we get structures good at that. Then we're ratcheted, since now we'll be even better at absorping and dissipating and likely won't go back.
 6. After a long time it looks like the system has self-organized into a state that is **well adapted** to its environment.
 
 England tested it:

@@ -51,7 +51,7 @@ Problem: Never repeated, no explanation, not science, just a curious anomaly.
 
 N: The number of civilizations in our galaxy in which communication might be possible
 R: The average rate of star formation per year in our galaxy
-f: The function of stars with planets
+f: The fraction of stars with planets
 n: The average number of planets that can potentially support life per star with planets
 fl (life): The fraction that can go on to support life
 fi (intelligence): The fraction that can go on to support intelligent life

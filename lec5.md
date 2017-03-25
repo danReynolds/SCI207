@@ -40,7 +40,7 @@ The universe began in a hot dense state (Big Bang) with almost no structure. Eve
 
 At one time, all of space was filled basically with hot protons, neutrons, electrons and photons (particles of light). As these gasses cooled, the electrons combined with protons, resulting in **neutal hydrogen atoms condensing out**.
 
-Because the electrons and protons were not together as hydrogen atoms, fewer possible arrangements, this condensation represented a decrease in entropy and increase in order.
+Because the electrons and protons were now together as hydrogen atoms, fewer possible arrangements, this condensation represented a decrease in entropy and increase in order.
 
 However, the energy released in this process carried away and spread out as photons, which represented at least as great an increase in entropy and decrease in order.
 
@@ -126,7 +126,7 @@ Why does it do the opposite and clump together after we try to mix it?
 
 Hydrocarbons like oil are made of only C & H atoms, and are hydrophobic, when a hydrocarbon molecule is put in water, the surrounding polar water molecules interact withs its H atoms and form a highly structured cage around it. Like methane, CH4
 
-The resulting increase in order by the caging everywhere would outweigh the decrease in order caused by the spreading out of the oil molecules, and their energy. Oil molecules clump together to show as few of themselves to the water as possibler.
+The resulting increase in order by the caging everywhere would outweigh the decrease in order caused by the spreading out of the oil molecules, and their energy. Oil molecules clump together to show as few of themselves to the water as possible.
 
 What does this have to do with these helices?
 

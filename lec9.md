@@ -157,6 +157,8 @@ Atmosphere: Thick, chemically active, rich in organic compounds, chemical precur
 
 ### Life on Titan?
 
+Has water-based ice instead of rocks.
+
 Surface: Bodies of liquid ethane and methane, solvent for a different kind of life. Instead of glucose + oxygen -> carbon dioxide, maybe acetylene + hydrogen -> methane.
 
 Evidently suggesting this has been detected, but non-life explanations are more likely, and have yet to be ruled out. Note: Extremely cold temperature -> any life would have very slow metabolism.

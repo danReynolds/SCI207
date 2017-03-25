@@ -8,13 +8,15 @@ Main sequence stars: Stably fusing H to He
 
 **Giants**: Stars in transition state or death throes.
 
-**White Dwarfs**: End of 97% of stars including Sun, heavier stars end as **neutron star** or **black hole**.
+**White Dwarfs**: End of 97% of stars including Sun, heavier stars end as **neutron star** or **black hole**. Suitable planets would have been sterilized during the star's earlier Red Giant phase.
 
 Sun like stars are just right.
 
 ## Detecting Exoplanets
 
-**Doppler Method**: Planet and star orbit center of mass, star wobbles, detect periodic shift in spectrum of starlight, color of the light. Gives **mass** of planet and period, orbital distance by Kepler's Third Law. Best for high mass planets close to their star. When the planet absorbs wavelengths of light, you can tell by patterns of absorption what atoms the light must have hit, so we can see that there is a hydrogen pattern in the spectrum you receive from the star, and you can know that there was hydrogen in a spot of the star that there shouldn't have been, it might be a planet.
+**Doppler Method**: As a star moves alternatively towards and away from us around its center of mass (the balance point of the solar system),
+
+Planet and star orbit center of mass, star wobbles, detect periodic shift in spectrum of starlight, color of the light. Gives **mass** of planet and period, orbital distance by Kepler's Third Law. Best for high mass planets close to their star. When the planet absorbs wavelengths of light, you can tell by patterns of absorption what atoms the light must have hit, so we can see that there is a hydrogen pattern in the spectrum you receive from the star, and you can know that there was hydrogen in a spot of the star that there shouldn't have been, it might be a planet.
 
 This gives the mass of the planet, and period. Now you know if the planet is too close for liquid water or too far, and have an estimate of its potential to support life.
 
@@ -183,7 +185,7 @@ All life on Earth requires liquid water, to dissolve molecules so that they can 
 
 Water is needed to:
 
-1. Dissolve organic and inorganic molecules, making them available for hcemi9cal reactions
+1. Dissolve organic and inorganic molecules, making them available for chemical reactions
 2. Transport chemicals into and out of cells
 3. Directly involved in many metabolic reactions
 
